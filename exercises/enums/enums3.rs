@@ -1,6 +1,5 @@
 // enums3.rs
 // Address all the TODOs to make the tests pass!
-// I AM NOT DONE
 
 enum Message {
     // TODO: implement the message variant types based on their usage below
@@ -9,7 +8,6 @@ enum Message {
     Move(Point),
     Quit,
 }
-// I AM NOT DONE
 
 struct Point {
     x: u8,
